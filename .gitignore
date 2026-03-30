@@ -1,0 +1,14 @@
+# 敏感資訊
+.env
+
+# Python 暫存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 專案產出物 (地圖檔不建議上傳，讓使用者自行執行生成)
+*.html
+
+# 虛擬環境
+venv/
+env/
